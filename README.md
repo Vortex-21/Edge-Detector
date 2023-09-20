@@ -23,7 +23,7 @@ This Python script demonstrates the implementation of the Sobel edge detection a
 
 Here's an example of the original image and the corresponding edge-detected image:
 
-(![Screenshot 2023-09-20 181122](https://github.com/Vortex-21/Edge-Detector/assets/101874272/db96f839-ca35-412b-a05d-1130f7d6edc7))
+![Screenshot 2023-09-20 181122](https://github.com/Vortex-21/Edge-Detector/assets/101874272/db96f839-ca35-412b-a05d-1130f7d6edc7)
 *Original Grayscale Image*
 
 ![Screenshot 2023-09-20 181149](https://github.com/Vortex-21/Edge-Detector/assets/101874272/cbc5d124-bd74-4e13-8b62-327c8e43be3f)
@@ -31,8 +31,6 @@ Here's an example of the original image and the corresponding edge-detected imag
 
 ## Credits
 
-This code is a simple implementation of the Sobel edge detection algorithm and was created for educational purposes.
+This code is a simple implementation of the Sobel edge detection algorithm .
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
